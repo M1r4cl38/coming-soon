@@ -30,7 +30,7 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/m1r4cl38)
+Monika: [Github](https://github.com/m1r4cl38)
 
 ## ⚠️ License
 
