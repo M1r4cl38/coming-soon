@@ -5,3 +5,17 @@
 /*3rd-party*/
 /*components*/
 
+/*Custom style below this comment*/
+
+.logo {
+    width: 50px;
+}
+
+.main-title {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.main-description {
+    font-size: 20px;
+}
