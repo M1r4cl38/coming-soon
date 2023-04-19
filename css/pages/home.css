@@ -12,10 +12,14 @@
 }
 
 .main-title {
-    font-size: 50px;
+    font-size: 70px;
     text-transform: uppercase;
 }
-
+@media (max-width: 700px) {
+    .main-title{
+        font-size:45px;
+    }
+}
 .main-description {
     font-size: 20px;
 }
