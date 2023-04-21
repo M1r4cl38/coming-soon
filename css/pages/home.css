@@ -9,18 +9,18 @@
 /*Custom style below this comment*/
 
 .logo {
-    width: 50px;
+    width: 3rem;
 }
 
 .main-title {
-    font-size: 70px;
+    font-size: 4rem;
     text-transform: uppercase;
     text-align: center;
 }
 
 
 .main-description {
-    font-size: 20px;
+    font-size: 1.3rem;
     text-align: center;
 }
 
@@ -30,10 +30,11 @@ footer.container {
 
 .row.socials {
     display: flex;
-    gap: 10px;
-    border-bottom: 1px solid #fff;
-    padding: 0.5em 0; /*1em = 20px*/
-    margin-bottom: 40px;
+    gap: 0.5em;
+    border-bottom: 0.1px solid #fff;
+    padding: 0.5em 0; 
+    margin-bottom: 2.5rem;
+    font-size: 1.3rem;
 }
 
 .fa {
