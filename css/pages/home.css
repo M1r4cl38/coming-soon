@@ -5,3 +5,20 @@
 /*3rd-party*/
 /*components*/
 
+/*Custom style below this comment*/
+
+.logo {
+    width: 50px;
+}
+
+.main-title {
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.main-description {
+    font-size: 20px;
+    text-align: center;
+}
