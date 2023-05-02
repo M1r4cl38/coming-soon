@@ -10,22 +10,42 @@
     justify-content: space-between;
 }
 
-.progress-bar > .top > .label {
+/*.progress-bar > .top > .label {
     
 }
 
 .progress-bar > .top > .value {
     
 }
-
+*/
 .progress-bar > .bottom {
-    height: 0.5rem;
+    height: 0.4rem;
     width: 100%;
     background-color: rgb(212, 207, 207);
 }
 
 .progress-bar > .bottom > .progress {
-    background-color: #03a9f3;
     width: 90%;
     height: 100%;
+}
+
+.progress-bar .progress > .bar {
+    background-color: #03a9f3;
+    height: 100%;
+    width: 100%;
+    animation-name: loading;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+}
+
+@keyframes loading {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 100%;
+    }
 }
