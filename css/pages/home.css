@@ -63,6 +63,6 @@ footer.container {
 
 .fa:hover {
     background-color: #fff;
-    color: #03a9f3;
+    color: var(--main-color);
     transition: all 1s;
 }
